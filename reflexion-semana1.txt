@@ -1,0 +1,8 @@
+El uso de información responsable, 
+la participación ciudadana y Git se unen en la transparencia
+La ciudadanía necesita datos reales para opinar y vigilar a sus gobiernos con honestidad
+Git ayuda en esto porque registra con exactitud quién hace cada cambio en un proyecto
+Esta herramienta técnica funciona igual que el derecho ciudadano a pedir cuentas al poder público
+Si algo sale mal en el código o en la política, el historial permite corregirlo
+Así, el trabajo en equipo se vuelve ordenado, público y libre de trampas o secretos
+Al final, las tres cosas buscan que la comunidad colabore de forma segura y abierta.
